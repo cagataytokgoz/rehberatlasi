@@ -1,4 +1,4 @@
-const CACHE_NAME = "sosyometri-pwa-v2";
+const CACHE_NAME = "sosyometri-pwa-v3";
 const CORE_ASSETS = [
   "./",
   "./index.html",
