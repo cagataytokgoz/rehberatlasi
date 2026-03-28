@@ -1,6 +1,6 @@
 {
-  "name": "Sosyometri Analiz Aracı",
-  "short_name": "Sosyometri",
+  "name": "Sosyal Pusula",
+  "short_name": "SP",
   "start_url": "./index.html",
   "display": "standalone",
   "background_color": "#f5f7fb",
