@@ -1,6 +1,6 @@
 {
-  "name": "Sosyal Pusula",
-  "short_name": "SP",
+  "name": "Ekip Pusulası",
+  "short_name": "EP",
   "start_url": "./index.html",
   "display": "standalone",
   "background_color": "#f5f7fb",
